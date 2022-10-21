@@ -1,7 +1,10 @@
 [package]
 name = "ethylene"
 version = "0.1.0"
+description = "A safe, runtime-independent asynchronous ORM and Query Builder for PostgreSQL, MySQL, SQLite, and MSSQL"
 edition = "2021"
+documentation = "https://docs.rs/ethylene/"
+repository = "https://github.com/jess4tech/ethylene"
 license = "MIT or Apache-2.0"
 keywords = ["database", "async", "orm", "sql"]
 categories = ["database"]
