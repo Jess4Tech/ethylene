@@ -5,7 +5,7 @@ description = "A safe, runtime-independent asynchronous ORM and Query Builder fo
 edition = "2021"
 documentation = "https://docs.rs/ethylene/"
 repository = "https://github.com/jess4tech/ethylene"
-license = "MIT or Apache-2.0"
+license = "MIT OR Apache-2.0"
 keywords = ["database", "async", "orm", "sql"]
 categories = ["database"]
 
